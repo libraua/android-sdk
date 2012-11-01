@@ -3,9 +3,9 @@
 ro.build.id=MASTER
 ro.build.display.id=sdk-eng 4.1.2 MASTER 495790 test-keys
 ro.build.version.incremental=495790
-ro.build.version.sdk=16
+ro.build.version.sdk=-16
 ro.build.version.codename=REL
-ro.build.version.release=4.1.2
+ro.build.version.release=4.1.2.internals
 ro.build.date=Tue Oct  9 20:03:51 UTC 2012
 ro.build.date.utc=1349813031
 ro.build.type=eng
